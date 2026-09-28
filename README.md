@@ -120,7 +120,7 @@ I'm still early in the journey — which is exactly why I'm building aggressivel
 
 **LinkedIn** → [Let's connect](https://www.linkedin.com/in/patil-ragini/)
 
-**Email** → `YOUR_EMAIL`
+**Email** → `raginijitendrapatil07@gmail.com`
 
 **Portfolio** → [Coming soon](YOUR_PORTFOLIO)
 
