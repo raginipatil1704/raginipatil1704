@@ -118,7 +118,7 @@ I'm still early in the journey — which is exactly why I'm building aggressivel
 
 ## 🌐 Find Me
 
-**LinkedIn** → [Let's connect](YOUR_LINKEDIN)
+**LinkedIn** → [Let's connect](https://www.linkedin.com/in/patil-ragini/)
 
 **Email** → `YOUR_EMAIL`
 
