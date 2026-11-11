@@ -151,3 +151,34 @@ I'm still early in the journey — which is exactly why I'm building aggressivel
 <p align="center">
   <i>creatively wired · under construction · 2am ideas</i>
 </p>
+ICPC Preparation 🚀
+
+Welcome to my Competitive Programming Journey!
+
+About
+
+I am preparing for competitive programming and improving my problem-solving skills through consistent practice.
+
+Platforms
+
+- Codeforces
+- LeetCode
+- CSES Problem Set
+
+Goals
+
+- Improve Data Structures and Algorithms.
+- Practice problem-solving daily.
+- Learn efficient algorithms.
+- Prepare for ICPC.
+
+Languages
+
+- C++
+- Python
+
+Progress
+
+Documenting my solutions and learning journey.
+
+Consistency over perfection! 🚀
